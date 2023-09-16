@@ -1,0 +1,28 @@
+{
+  "name": "js-test-hw3-jest",
+  "version": "0.0.1",
+  "description": "this is homework 3 for javascripts testing course",
+  "main": "app.js",
+  "keywords": [
+    "javascript",  
+    "jest",
+    "test",
+    "homework"
+  ],
+  "author": "rtm_wrk rtm_wrk@rambler.ru",
+  "license": "ISC",
+  "homepage": "https://github.com/rtmwrk/jst3#readme",
+  "bugs": {
+    "url": "https://github.com/rtmwrk/jst3/issues"
+  },
+
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
